@@ -1,4 +1,4 @@
-# Traffic Category Analysis
+# Cyber-Attack-Detection
 
 ## Project Description
 This project involves analyzing network traffic data to categorize different types of network activities. Using a dataset from the HIKARI2021 study, we perform various data processing steps and apply machine learning techniques to classify traffic into benign, probing, or other types of activities.
